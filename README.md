@@ -9,4 +9,6 @@
 
 Drag and drop the crosshair onto the password field and the login button:
 
-![brute force showcase](https://i.ibb.co/FxnVsJz/passbf.gif)
+<p align="center">
+  <img src="https://i.ibb.co/CJF47mX/bf.gif">
+</p>
