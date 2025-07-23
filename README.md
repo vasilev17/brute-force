@@ -1,4 +1,4 @@
-# Brute Force
+# 🔑 Brute Force
 Brute Force is a proof-of-concept Windows Forms utility written entirely in C#, aiming to demonstrate how a desktop program can automate a brute-force password attack against any Windows GUI login dialog.
 
 ## Installation
